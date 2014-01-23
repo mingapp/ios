@@ -1,0 +1,3 @@
+The managed object context serves as your gateway to an underlying collection of framework objects—collectively known as the persistence stack—that mediate between the objects in your application and external data stores. At the bottom of the stack are persistent object stores,
+
+Model objects that tie into in the Core Data framework are known as managed objects. All managed objects must be registered with a managed object context.
