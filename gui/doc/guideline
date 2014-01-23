@@ -1,0 +1,1 @@
+GUI will interact with DB only. It has no relationship with network functions.
